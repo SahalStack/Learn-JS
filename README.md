@@ -46,3 +46,14 @@ This repository contains all the JavaScript topics I’ve learned and practiced 
     - Classes
     - Destructuring
     - Spread Operator
+      
+✅ Functions
+Function declaration, expression & arrow function
+
+Functions calling other functions
+
+Function returning values
+
+Function with if/else conditions
+
+Challenge: Determine winner based on average scores
