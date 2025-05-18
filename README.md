@@ -47,13 +47,38 @@ This repository contains all the JavaScript topics I’ve learned and practiced 
     - Destructuring
     - Spread Operator
       
-✅ Functions
-Function declaration, expression & arrow function
+## ✅ Functions
+- Function declaration, expression & arrow function  
+- Functions calling other functions  
+- Function returning values  
+- Function with if/else conditions  
+- **Challenge:** Determine winner based on average scores
+- 
+## ✅ Arrays
+- Creating arrays  
+- Accessing & updating array elements  
+- Array methods: `push`, `pop`, `shift`, `unshift`, `indexOf`, `includes`  
+- Using functions with arrays  
+- Calculating tips and total bills
 
-Functions calling other functions
+## ✅ Objects
+- Object literal syntax  
+- Accessing object properties using dot and bracket notation  
+- Adding new properties  
+- Object methods (using `this`)  
+- **Challenge:** BMI comparison using objects and methods  
+- Object summary using methods
 
-Function returning values
+  ## ✅ Loops & Control Structures
+- Basic `for` loop for repetitions  
+- Practical looping over data  
+- Conditional logic inside loops
 
-Function with if/else conditions
+  ## 🧠 Usage Tips
+- Use browser console or Node.js to test snippets  
+- Add `console.log()` statements to trace your code  
+- Try combining topics for deeper practice
 
-Challenge: Determine winner based on average scores
+  ## 🛠 Technologies Used
+- JavaScript (ES6+)  
+- Browser or Node.js runtime
