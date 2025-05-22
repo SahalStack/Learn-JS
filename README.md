@@ -76,35 +76,18 @@ This repository contains all the JavaScript topics I’ve learned and practiced 
 
   -----------------------------------------
 
--  Strict Mode
- 'use strict';
-
-- Variables and Data Types
- const, let, arrays, objects, strings, numbers, booleans
-
-- Functions and Parameters
- Function declarations, return values, passing arguments
-
-- Array Methods
- .concat(), .reduce(), .filter(), .indexOf(), spread syntax (...)
-
-  -Objects and Methods
- Object creation, dot notation, object methods, object destructuring
-
-- Template Literals
- `... ${variable} ...`
-
--Error Handling and Debugging
- typeof checks, console.log(), console.table(), console.warn(), console.error()
-
- -Problem-Solving Techniques
- Breaking down problems with comments and sub-steps
-
- -Math Functions
- Math.max(), Math.min(), .toFixed()
-
- - Real-World Coding Challenges
- Thermometer app, weather forecast formatter, weekly time tracker
+- ✅ Strict Mode in JavaScript
+- ✅ Variables and Data Types
+- ✅ Functions and Parameters
+- ✅ Loops and Conditional Statements
+- ✅ Array Methods (map, filter, reduce, concat, indexOf)
+- ✅ Objects and Object Methods
+- ✅ Template Literals
+- ✅ Error Handling and Debugging (console.log, console.table, etc.)
+- ✅ Problem-Solving Techniques
+- ✅ Math Functions (Math.max, Math.min, toFixed)
+- ✅ Spread Operator (...)
+- ✅ Real-World Coding Challenges (Thermometer, Forecast, Time Tracker)
 
   ## 🧠 Usage Tips
 - Use browser console or Node.js to test snippets  
