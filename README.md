@@ -74,6 +74,8 @@ This repository contains all the JavaScript topics I’ve learned and practiced 
 - Practical looping over data  
 - Conditional logic inside loops
 
+  -----------------------------------------
+
 -  Strict Mode
  'use strict';
 
