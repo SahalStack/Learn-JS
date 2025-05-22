@@ -114,3 +114,5 @@ This repository contains all the JavaScript topics I’ve learned and practiced 
   ## 🛠 Technologies Used
 - JavaScript (ES6+)  
 - Browser or Node.js runtime
+
+-  More topics will be added as I progress. 🚀
