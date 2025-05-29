@@ -89,6 +89,35 @@ This repository contains all the JavaScript topics I’ve learned and practiced 
 - ✅ Spread Operator (...)
 - ✅ Real-World Coding Challenges (Thermometer, Forecast, Time Tracker)
 
+
+17. Scope and Scope Chain  
+18. Lexical Scoping inside Nested Functions  
+19. Function Declarations  
+20. Function Expressions  
+21. Arrow Functions  
+22. Hoisting (Variables and Functions)  
+23. Temporal Dead Zone (TDZ) for `let` and `const`  
+24. Block Scope vs Function Scope  
+25. Variable Shadowing  
+26. `var` being Function Scoped  
+27. Use of `const`, `let`, and `var`  
+28. `this` Keyword in:
+    - Global Context
+    - Regular Functions
+    - Arrow Functions
+    - Object Methods  
+29. Object Method Borrowing  
+30. Object References and Mutability  
+31. Primitive vs Reference Types  
+32. Shallow Copy using Spread Operator (`{ ...object }`)  
+33. Deep Copy using `structuredClone()`  
+34. Behavior of `arguments` Object in:
+    - Function Declarations
+    - Function Expressions
+    - Arrow Functions  
+35. Logical Error Example: Cart deletion when variable is `undefined`  
+36. Differences in `this` behavior between regular and arrow functions inside objects 
+
   ## 🧠 Usage Tips
 - Use browser console or Node.js to test snippets  
 - Add `console.log()` statements to trace your code  
